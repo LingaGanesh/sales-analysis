@@ -1,0 +1,6 @@
+{
+  "name": "Amazon India Festive Sales Science & Demand Forecasting Briefing",
+  "description": "Executive sales forecast, multi-festival demand projections, safety stock optimization, and operational playbooks for Amazon India festive events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
